@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/archmyth](https://github.com/archmyth)
 
-- 💬 Ask me about **react, python, Aws, and manga.**
+- 💬 Ask me about **react, python, AWS, and manga.**
 
 - 📫 How to reach me **archmyth@gmail.com**
 
